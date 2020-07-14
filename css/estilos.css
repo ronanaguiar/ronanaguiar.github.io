@@ -1,0 +1,15 @@
+h1{
+  color: yellow;
+  border: 2px solid white;
+  text-align: center;
+  }
+body {
+  background-color: rgb(30,30,30);
+  font-family: "Helvetica", "Lucida Grande", sans-serif;
+  }
+header {
+  text-align: center;
+  float: center;
+}
+  
+ 
